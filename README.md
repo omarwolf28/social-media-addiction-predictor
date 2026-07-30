@@ -11,7 +11,7 @@ An interactive Machine Learning web application built with **Streamlit** that pr
 - **ML Predictions:** Machine Learning model trained to evaluate addiction risk levels effectively.
 
 ---
-🚀 **[Live Demo: Try the App Here]([https://YOUR-APP-NAME.streamlit.app](https://social-media-addiction-level-predictor.streamlit.app/))**
+🚀 **[Live Demo: Try the App Here](https://social-media-addiction-level-predictor.streamlit.app/)**
 ## 📁 Project Structure
 
 ```text
