@@ -20,3 +20,4 @@ social-media-addiction-predictor/
 ├── streamlit_app.py       # Streamlit web application interface
 ├── requirements.txt       # Python dependencies for the project
 └── README.md              # Project documentation
+🚀 **[Live Demo: Try the App Here]([https://YOUR-APP-NAME.streamlit.app](https://social-media-addiction-level-predictor.streamlit.app/))**
