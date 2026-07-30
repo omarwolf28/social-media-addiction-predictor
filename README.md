@@ -13,11 +13,11 @@ An interactive Machine Learning web application built with **Streamlit** that pr
 ---
 
 ## 📁 Project Structure
-
+🚀 **[Live Demo: Try the App Here]([https://YOUR-APP-NAME.streamlit.app](https://social-media-addiction-level-predictor.streamlit.app/))**
 ```text
 social-media-addiction-predictor/
 ├── preprocess.py          # Data preprocessing and feature engineering script
 ├── streamlit_app.py       # Streamlit web application interface
 ├── requirements.txt       # Python dependencies for the project
 └── README.md              # Project documentation
-🚀 **[Live Demo: Try the App Here]([https://YOUR-APP-NAME.streamlit.app](https://social-media-addiction-level-predictor.streamlit.app/))**
+
